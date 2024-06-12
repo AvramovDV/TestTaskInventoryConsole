@@ -1,0 +1,177 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Work\\TestTaskInventoryConsole\\TestTaskInventoryConsole\\TestTaskInventoryConsole\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B0BA93B-EBF3-4FCB-975C-2154AFD4092C}|TestTaskInventoryConsole\\TestTaskInventoryConsole.csproj|d:\\work\\testtaskinventoryconsole\\testtaskinventoryconsole\\testtaskinventoryconsole\\testtaskinventoryconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B0BA93B-EBF3-4FCB-975C-2154AFD4092C}|TestTaskInventoryConsole\\TestTaskInventoryConsole.csproj|solutionrelative:testtaskinventoryconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B0BA93B-EBF3-4FCB-975C-2154AFD4092C}|TestTaskInventoryConsole\\TestTaskInventoryConsole.csproj|d:\\work\\testtaskinventoryconsole\\testtaskinventoryconsole\\testtaskinventoryconsole\\testtaskinventoryconsole\\itemcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B0BA93B-EBF3-4FCB-975C-2154AFD4092C}|TestTaskInventoryConsole\\TestTaskInventoryConsole.csproj|solutionrelative:testtaskinventoryconsole\\itemcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B0BA93B-EBF3-4FCB-975C-2154AFD4092C}|TestTaskInventoryConsole\\TestTaskInventoryConsole.csproj|d:\\work\\testtaskinventoryconsole\\testtaskinventoryconsole\\testtaskinventoryconsole\\testtaskinventoryconsole\\itemstransmiter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B0BA93B-EBF3-4FCB-975C-2154AFD4092C}|TestTaskInventoryConsole\\TestTaskInventoryConsole.csproj|solutionrelative:testtaskinventoryconsole\\itemstransmiter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B0BA93B-EBF3-4FCB-975C-2154AFD4092C}|TestTaskInventoryConsole\\TestTaskInventoryConsole.csproj|d:\\work\\testtaskinventoryconsole\\testtaskinventoryconsole\\testtaskinventoryconsole\\testtaskinventoryconsole\\iitemcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B0BA93B-EBF3-4FCB-975C-2154AFD4092C}|TestTaskInventoryConsole\\TestTaskInventoryConsole.csproj|solutionrelative:testtaskinventoryconsole\\iitemcollection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B0BA93B-EBF3-4FCB-975C-2154AFD4092C}|TestTaskInventoryConsole\\TestTaskInventoryConsole.csproj|d:\\work\\testtaskinventoryconsole\\testtaskinventoryconsole\\testtaskinventoryconsole\\testtaskinventoryconsole\\iitemvisitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B0BA93B-EBF3-4FCB-975C-2154AFD4092C}|TestTaskInventoryConsole\\TestTaskInventoryConsole.csproj|solutionrelative:testtaskinventoryconsole\\iitemvisitor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B0BA93B-EBF3-4FCB-975C-2154AFD4092C}|TestTaskInventoryConsole\\TestTaskInventoryConsole.csproj|d:\\work\\testtaskinventoryconsole\\testtaskinventoryconsole\\testtaskinventoryconsole\\testtaskinventoryconsole\\stackableitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B0BA93B-EBF3-4FCB-975C-2154AFD4092C}|TestTaskInventoryConsole\\TestTaskInventoryConsole.csproj|solutionrelative:testtaskinventoryconsole\\stackableitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B0BA93B-EBF3-4FCB-975C-2154AFD4092C}|TestTaskInventoryConsole\\TestTaskInventoryConsole.csproj|d:\\work\\testtaskinventoryconsole\\testtaskinventoryconsole\\testtaskinventoryconsole\\testtaskinventoryconsole\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B0BA93B-EBF3-4FCB-975C-2154AFD4092C}|TestTaskInventoryConsole\\TestTaskInventoryConsole.csproj|solutionrelative:testtaskinventoryconsole\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B0BA93B-EBF3-4FCB-975C-2154AFD4092C}|TestTaskInventoryConsole\\TestTaskInventoryConsole.csproj|d:\\work\\testtaskinventoryconsole\\testtaskinventoryconsole\\testtaskinventoryconsole\\testtaskinventoryconsole\\iitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B0BA93B-EBF3-4FCB-975C-2154AFD4092C}|TestTaskInventoryConsole\\TestTaskInventoryConsole.csproj|solutionrelative:testtaskinventoryconsole\\iitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B0BA93B-EBF3-4FCB-975C-2154AFD4092C}|TestTaskInventoryConsole\\TestTaskInventoryConsole.csproj|d:\\work\\testtaskinventoryconsole\\testtaskinventoryconsole\\testtaskinventoryconsole\\testtaskinventoryconsole\\istackable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B0BA93B-EBF3-4FCB-975C-2154AFD4092C}|TestTaskInventoryConsole\\TestTaskInventoryConsole.csproj|solutionrelative:testtaskinventoryconsole\\istackable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IItemVisitor.cs",
+              "DocumentMoniker": "D:\\Work\\TestTaskInventoryConsole\\TestTaskInventoryConsole\\TestTaskInventoryConsole\\TestTaskInventoryConsole\\IItemVisitor.cs",
+              "RelativeDocumentMoniker": "TestTaskInventoryConsole\\IItemVisitor.cs",
+              "ToolTip": "D:\\Work\\TestTaskInventoryConsole\\TestTaskInventoryConsole\\TestTaskInventoryConsole\\TestTaskInventoryConsole\\IItemVisitor.cs",
+              "RelativeToolTip": "TestTaskInventoryConsole\\IItemVisitor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T11:33:45.226Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IItemCollection.cs",
+              "DocumentMoniker": "D:\\Work\\TestTaskInventoryConsole\\TestTaskInventoryConsole\\TestTaskInventoryConsole\\TestTaskInventoryConsole\\IItemCollection.cs",
+              "RelativeDocumentMoniker": "TestTaskInventoryConsole\\IItemCollection.cs",
+              "ToolTip": "D:\\Work\\TestTaskInventoryConsole\\TestTaskInventoryConsole\\TestTaskInventoryConsole\\TestTaskInventoryConsole\\IItemCollection.cs",
+              "RelativeToolTip": "TestTaskInventoryConsole\\IItemCollection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T11:20:56.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ItemsTransmiter.cs",
+              "DocumentMoniker": "D:\\Work\\TestTaskInventoryConsole\\TestTaskInventoryConsole\\TestTaskInventoryConsole\\TestTaskInventoryConsole\\ItemsTransmiter.cs",
+              "RelativeDocumentMoniker": "TestTaskInventoryConsole\\ItemsTransmiter.cs",
+              "ToolTip": "D:\\Work\\TestTaskInventoryConsole\\TestTaskInventoryConsole\\TestTaskInventoryConsole\\TestTaskInventoryConsole\\ItemsTransmiter.cs",
+              "RelativeToolTip": "TestTaskInventoryConsole\\ItemsTransmiter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T10:58:22.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ItemCollection.cs",
+              "DocumentMoniker": "D:\\Work\\TestTaskInventoryConsole\\TestTaskInventoryConsole\\TestTaskInventoryConsole\\TestTaskInventoryConsole\\ItemCollection.cs",
+              "RelativeDocumentMoniker": "TestTaskInventoryConsole\\ItemCollection.cs",
+              "ToolTip": "D:\\Work\\TestTaskInventoryConsole\\TestTaskInventoryConsole\\TestTaskInventoryConsole\\TestTaskInventoryConsole\\ItemCollection.cs",
+              "RelativeToolTip": "TestTaskInventoryConsole\\ItemCollection.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAUAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T10:01:23.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IStackable.cs",
+              "DocumentMoniker": "D:\\Work\\TestTaskInventoryConsole\\TestTaskInventoryConsole\\TestTaskInventoryConsole\\TestTaskInventoryConsole\\IStackable.cs",
+              "RelativeDocumentMoniker": "TestTaskInventoryConsole\\IStackable.cs",
+              "ToolTip": "D:\\Work\\TestTaskInventoryConsole\\TestTaskInventoryConsole\\TestTaskInventoryConsole\\TestTaskInventoryConsole\\IStackable.cs",
+              "RelativeToolTip": "TestTaskInventoryConsole\\IStackable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T09:59:40.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StackableItem.cs",
+              "DocumentMoniker": "D:\\Work\\TestTaskInventoryConsole\\TestTaskInventoryConsole\\TestTaskInventoryConsole\\TestTaskInventoryConsole\\StackableItem.cs",
+              "RelativeDocumentMoniker": "TestTaskInventoryConsole\\StackableItem.cs",
+              "ToolTip": "D:\\Work\\TestTaskInventoryConsole\\TestTaskInventoryConsole\\TestTaskInventoryConsole\\TestTaskInventoryConsole\\StackableItem.cs",
+              "RelativeToolTip": "TestTaskInventoryConsole\\StackableItem.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBYAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T09:58:23.729Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Item.cs",
+              "DocumentMoniker": "D:\\Work\\TestTaskInventoryConsole\\TestTaskInventoryConsole\\TestTaskInventoryConsole\\TestTaskInventoryConsole\\Item.cs",
+              "RelativeDocumentMoniker": "TestTaskInventoryConsole\\Item.cs",
+              "ToolTip": "D:\\Work\\TestTaskInventoryConsole\\TestTaskInventoryConsole\\TestTaskInventoryConsole\\TestTaskInventoryConsole\\Item.cs",
+              "RelativeToolTip": "TestTaskInventoryConsole\\Item.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T09:57:06.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IItem.cs",
+              "DocumentMoniker": "D:\\Work\\TestTaskInventoryConsole\\TestTaskInventoryConsole\\TestTaskInventoryConsole\\TestTaskInventoryConsole\\IItem.cs",
+              "RelativeDocumentMoniker": "TestTaskInventoryConsole\\IItem.cs",
+              "ToolTip": "D:\\Work\\TestTaskInventoryConsole\\TestTaskInventoryConsole\\TestTaskInventoryConsole\\TestTaskInventoryConsole\\IItem.cs",
+              "RelativeToolTip": "TestTaskInventoryConsole\\IItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T09:56:11.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Work\\TestTaskInventoryConsole\\TestTaskInventoryConsole\\TestTaskInventoryConsole\\TestTaskInventoryConsole\\Program.cs",
+              "RelativeDocumentMoniker": "TestTaskInventoryConsole\\Program.cs",
+              "ToolTip": "D:\\Work\\TestTaskInventoryConsole\\TestTaskInventoryConsole\\TestTaskInventoryConsole\\TestTaskInventoryConsole\\Program.cs",
+              "RelativeToolTip": "TestTaskInventoryConsole\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-12T09:37:54.025Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
